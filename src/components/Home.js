@@ -27,6 +27,7 @@ const Home = () => {
     return (
         <Fragment>
             <Nav />
+            <br /><br /><br />
             <div style={styles}>
                 <Parallax bgImage={image1} strength={500}>
                     <div style={{ height: 600 }}>
